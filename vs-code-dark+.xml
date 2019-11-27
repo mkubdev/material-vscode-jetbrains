@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>vs-code-dark+</id>
+  <editorColorsScheme>dark+</editorColorsScheme>
+  <dark>true</dark>
+  <name>VS Code Dark+</name>
+  <colors>
+    <color id="background" value="1e1e1eff"/>
+    <color id="foreground" value="f6f2eeff"/>
+    <color id="text" value="ccc8c4ff"/>
+    <color id="highlight" value="235d96ff"/>
+    <color id="selectionBackground" value="6b6869ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="403e43c0"/>
+    <color id="secondaryBackground" value="2e2e2eff"/>
+    <color id="disabled" value="415967ff"/>
+    <color id="contrast" value="202020ff"/>
+    <color id="tableSelected" value="000000ff"/>
+    <color id="secondBorder" value="1d1d1dff"/>
+    <color id="treeSelection" value="29292950"/>
+    <color id="notifications" value="323232ff"/>
+    <color id="accent" value="235d96ff"/>
+    <color id="excluded" value="430003ff"/>
+  </colors>
+  <themeId>vs-code-dark+</themeId>
+</mtTheme>
